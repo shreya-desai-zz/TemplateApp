@@ -1,5 +1,7 @@
 ﻿'Commit Practice
-'Commit and Push
+'Commit and sync
+
+
 Public Class Child
   Public Sub New()
   End Sub
