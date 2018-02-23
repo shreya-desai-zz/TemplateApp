@@ -1,0 +1,16 @@
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\bin\Debug\TemplateApp.exe.config
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\bin\Debug\TemplateApp.exe
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\bin\Debug\TemplateApp.pdb
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\bin\Debug\TemplateApp.xml
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\ListControlItemTemplate.vbprojResolveAssemblyReference.cache
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\MainWindow.g.vb
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\Application.g.vb
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp_MarkupCompile.cache
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp_MarkupCompile.lref
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\MainWindow.baml
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp.g.resources
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp.Resources.resources
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\ListControlItemTemplate.vbproj.GenerateResource.Cache
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp.exe
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp.xml
+c:\users\shreya.desai\documents\visual studio 2015\Projects\TemplateApp\TemplateApp\obj\Debug\TemplateApp.pdb
